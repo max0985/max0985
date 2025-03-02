@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi! I'm Max 👋
 
-<!--
-**max0985/max0985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I’m a robot developer diving into app/web development.**  
+🌱 **Currently learning:** JavaScript and Git (advance)
+💡 **Interested in:** Building accessible websites & app
+🎯 **Goals:** Complete my own first web app from scratch  
+📫 **Reach me:** max991028@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Toolbox
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+---
+
+### 🗂️ Projects in Progress
+
+1. **Personal Portfolio**  
+   - A simple site to showcase my learning journey.  
+   - **Status:** 🚧 Designing the layout!  
+
+---
+
+### 💬 Let’s Connect!
+
+I’m open to:  
+- Collaborating on any projects.
+- Any job offer. 
+- Learning from your feedback!  
+
+📧 **Email:** max991028@gmail.com  
+
+---
+
+⭐ **Fun fact:** I build my own forex accountant bot from scratch that can solve all advance accountting problem
+🚀 **Next step:** Contribute to my first open-source project!
